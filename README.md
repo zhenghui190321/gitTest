@@ -26,3 +26,4 @@ Git 与常用的版本控制工具 CVS, Subversion 等不同，它采用了分�
 3. git push remote branchName 向远程推送某个分支
 4. git pull remote branchName 与远程进行同步
 5. git stash 将现场存储起来
+6. git fetch remote branckName  与远程进行同步
