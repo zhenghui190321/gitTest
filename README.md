@@ -25,3 +25,4 @@ Git 与常用的版本控制工具 CVS, Subversion 等不同，它采用了分�
 2. git add remote userName url 添加远程并且为这个远程重命名
 3. git push remote branchName 向远程推送某个分支
 4. git pull remote branchName 与远程进行同步
+5. git fetch remote branckName  与远程进行同步
