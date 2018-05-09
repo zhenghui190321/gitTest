@@ -21,5 +21,5 @@ Git 与常用的版本控制工具 CVS, Subversion 等不同，它采用了分�
 5. git push remote branchName 向远程推送当前分支
 
 ## github 使用 ##
-git remote -v 查看所有远程信息
-git add remote userName url 添加远程并且为这个远程重命名
+1. git remote -v 查看所有远程信息
+2. git add remote userName url 添加远程并且为这个远程重命名
