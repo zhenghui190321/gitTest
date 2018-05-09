@@ -14,6 +14,8 @@ Git 与常用的版本控制工具 CVS, Subversion 等不同，它采用了分�
 7. git init 初始化一个git仓库
 
 ## git 分支管理##
-1. git checkout [-b] branchName 跳转到某个分支，[-b]创建某个分支
+1. git checkout [-b] branchName [remote/branchName] 跳转到某个分支，[-b]创建某个分支  [remote/branchName]远程分支名
 2. git branch 查看所有分支
-3. git merge branchName 合并分支 
+3. git merge branchName 合并分支
+4. git branch -d branchName 删除分支，只是本地删除了
+5. git push remote branchName 向远程推送当前分支
